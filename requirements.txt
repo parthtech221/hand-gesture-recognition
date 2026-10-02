@@ -1,0 +1,7 @@
+# Runtime and training dependencies
+numpy
+opencv-python
+mediapipe
+pandas
+scikit-learn
+joblib
